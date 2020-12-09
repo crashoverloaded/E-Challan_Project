@@ -1,2 +1,2 @@
-# ML_Practice
-contains code of ML practice by AAIC and other courses d
+# DL E-challan Project
+Authors: Ranjit Singh , Priyank Agarwal , Pushkar jat
